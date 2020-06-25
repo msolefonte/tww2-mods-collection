@@ -15,4 +15,4 @@ keep on giving. The current list is the following:
 * [No Battle Notifications](no_battle_notifications) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=1185219203)_)
 * [Norsca: Loot & Raze](norsca_loot_and_raze) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2124324856)_)
 * [Norsca: Loot & Raze for the Gods](norsca_loot_and_raze_gods) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2124324531)_)
-* [Victory Conditions Overhaul](tww2-victory-conditions-overhaul) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2122621615)_)
+* [Victory Conditions Overhaul](https://github.com/msolefonte/tww2-victory-conditions-overhaul/tree/ce4cda2e54bb16780e28c51914bc78899a851a0f) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2122621615)_)
