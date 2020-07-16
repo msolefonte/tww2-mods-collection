@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="head" >
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\emp\emp_knights_reiksguard\head\emp_reiksguard_head_01.rigid_model_v2"  />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\emp\emp_knights_reiksguard\head\emp_reiksguard_head_02.rigid_model_v2"  />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\emp\emp_knights_reiksguard\head\emp_reiksguard_head_03.rigid_model_v2"  />
+		<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\emp\emp_knights_reiksguard\head\emp_reiksguard_head_04.rigid_model_v2"  />
+	</SLOT>
+	<SLOT name="crest" >
+				<VARIANT_MESH model="VariantMeshes\wh_variantmodels\hu1\emp\emp_demigryph_knight\head\emp_demigryph_knight_crest_02.rigid_model_v2"  />
+	</SLOT>
+</VARIANT_MESH>
