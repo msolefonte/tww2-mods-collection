@@ -1,3 +1,21 @@
 [submodule "tww2-victory-conditions-overhaul"]
 	path = tww2-victory-conditions-overhaul
 	url = https://github.com/msolefonte/tww2-victory-conditions-overhaul
+[submodule "tww2-vco2-main"]
+	path = tww2-vco2-main
+	url = https://github.com/msolefonte/tww2-vco2-main
+[submodule "tww2-vco2-submod-cheat"]
+	path = tww2-vco2-submod-cheat
+	url = https://github.com/msolefonte/tww2-vco2-submod-cheat
+[submodule "tww2-vco2-submod-military"]
+	path = tww2-vco2-submod-military
+	url = https://github.com/msolefonte/tww2-vco2-submod-military
+[submodule "tww2-vco2-submod-economic"]
+	path = tww2-vco2-submod-economic
+	url = https://github.com/msolefonte/tww2-vco2-submod-economic
+[submodule "tww2-vco2-submod-cultural"]
+	path = tww2-vco2-submod-cultural
+	url = https://github.com/msolefonte/tww2-vco2-submod-cultural
+[submodule "tww2-vco2-framework"]
+	path = tww2-vco2-framework
+	url = https://github.com/msolefonte/tww2-vco2-framework
