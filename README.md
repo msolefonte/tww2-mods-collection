@@ -22,3 +22,5 @@ keep on giving. The current list is the following:
 * [Victory Conditions Overhaul 2 - Economic Victory Submod](https://github.com/msolefonte/tww2-vco2-submod-economic) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815285)_)
 * [Victory Conditions Overhaul 2 - Instant Victory Submod](https://github.com/msolefonte/tww2-vco2-submod-cheat) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815462)_)
 * [Victory Conditions Overhaul 2 - Military Victory Submod](https://github.com/msolefonte/tww2-vco2-submod-military) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815338)_)
+* [Victory Conditions Overhaul 2 - Extended Multiplayer Submod](vco2_submod_extended_multiplayer) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2172652898)_)
+* [Victory Conditions Overhaul](https://github.com/msolefonte/tww2-victory-conditions-overhaul/tree/ce4cda2e54bb16780e28c51914bc78899a851a0f) (_[Steam Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2122621615)_)
