@@ -19,8 +19,6 @@ local missions = {
                 }
             }
         }
-<<<<<<< HEAD
-<<<<<<< HEAD
     ]],
     [[
         mission
@@ -42,10 +40,6 @@ local missions = {
 				}
 			}
 		}
-=======
->>>>>>> cbea4b65bfad4e715ea8da24d2252c6ead62bc15
-=======
->>>>>>> cbea4b65bfad4e715ea8da24d2252c6ead62bc15
     ]]
 };
 
